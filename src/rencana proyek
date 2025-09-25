@@ -1,0 +1,51 @@
+## Rencana Proyek Aplikasi Jadwal dan Pengingat Tugas
+
+## > Rencana Proyek
+
+  1. Latar Belakang
+→ Banyak siswa kesulitan mengatur waktu dan sering lupa dengan tugas sekolah maupun kegiatan lainnya. Untuk itu, dibutuhkan aplikasi yang dapat membantu siswa mengelola jadwal dan
+  memberikan pengingat otomatis, sehingga lebih disiplin dan produktif.
+
+ 2. Tahapan Proyek
+-  **Analisis Kebutuhan** (minggu 1)
+   Identifikasi kebutuhan siswa dan guru.
+
+-  **Perancangan Sistem** (minggu 2–3)
+   Desain arsitektur aplikasi dan UI/UX.
+
+-  **Pengembangan Aplikasi** (minggu 4–7)
+   } Coding backend dan frontend.
+   } Integrasi database.
+-  **Pengujian (Testing)** (minggu 8)
+   Uji coba aplikasi dengan siswa.
+-  **Implementasi & Evaluasi** (minggu 9–10)
+   Deploy aplikasi dan minta feedback pengguna.
+
+## > Tujuan 
+     Membuat aplikasi ramah pengguna berbasis python
+     Membuat aplikasi yang dapat mencatat dan menampilkan jadwal kegiatan.
+     Menyediakan fitur pengingat tugas dengan notifikasi.
+     Membantu siswa meningkatkan manajemen waktu dan kedisiplinan.
+     Memberikan pengalaman pengguna dengan antarmuka yang sederhana dan mudah dipahami.
+
+## > Tools Python Python 
+     → Bahasa utama untuk logika program.
+
+## > Fitur Utama 
+     → Fitur utama untuk aplikasi 
+1. **Manajemen Jadwal**
+   * Tambah, edit, dan hapus jadwal kegiatan.
+   * Tampilkan jadwal harian, mingguan, atau bulanan.
+
+2. **Manajemen Tugas**
+   * Buat daftar tugas dengan deadline.
+   * Tandai tugas yang sudah selesai.
+   * Atur prioritas tugas (rendah, sedang, tinggi).
+
+3. **Pengingat & Notifikasi**
+   * Notifikasi otomatis sebelum deadline.
+   * Alarm/pengingat sesuai waktu yang ditentukan.
+
+4. **Dashboard Ringkas**
+   * Menampilkan daftar tugas terdekat.
+   * Kalender sederhana untuk melihat jadwal sekaligus.
